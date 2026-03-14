@@ -1,0 +1,39 @@
+# Generated audio output
+output/
+*.mp3
+*.wav
+
+# GGUF model files (large, download via setup)
+*.gguf
+acestep.cpp/models/
+
+# Compiled binaries and build artifacts
+acestep.cpp/build/
+*.exe
+*.a
+*.o
+*.so
+*.dll
+
+# Intermediate generated request files (numeric suffix = pipeline artifact)
+examples/*[0-9].json
+
+# Editor / IDE
+.vscode/
+.cursor/
+*.code-workspace
+*.suo
+*.user
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
