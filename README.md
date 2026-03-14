@@ -1,4 +1,8 @@
-# 🎵 ACE-Step 1.5 — Local & Colab Music Generator
+<p align="center">
+  <img src="assets/banner.png" alt="ACE-Step Colab — Music Generation with AI" width="100%">
+</p>
+
+# ACE-Step 1.5 — Local & Colab Music Generator
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arlinamid/ace-step-colab/blob/main/ACE-Step-Colab.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
